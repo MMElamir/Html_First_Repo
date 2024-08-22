@@ -1,0 +1,110 @@
+body
+{ font-family: "Cairo", sans-serif;
+
+}
+.navbar
+{
+   
+    font-weight: 350;
+    background-color: #76c7d4 !important;
+    font-size: 1.2rem;
+}   
+.dropdown-menu
+{
+    background-color: cadetblue !important;
+}
+.carousel-item
+{
+    height: 100vh;
+    
+}
+.myicon
+{
+    color: #76c7d4 !important;
+}
+.carousel-caption
+{
+    background-color: rgba(151, 194, 224, .4) !important;
+    border-radius: 20px;
+    bottom: 5rem;
+    padding: 40px;
+}
+.carousel-caption:hover
+{
+    background-color: rgba(98, 124, 199, 0.4) !important;
+    transition: ease .5s;
+}
+
+.carousel-indicators button
+{width: 20px !important;
+    height: 20px !important;
+    background-color: #76c7d4 !important;
+    border-radius:50% !important;
+}
+.carousel-indicators button:hover
+{
+background-color:rgba(48, 97, 232, .4) !important;
+transition: ease 1s;
+}
+.products .btnAll .btn
+{
+    background-color:  #76c7d4 !important;
+}
+.card img
+{
+    width: 100%;
+    height: 250px;
+}
+.card
+{
+    background-color: rgb(236, 236, 244);
+}
+.contacts
+{
+    background-image: url(images/gg.jpg);
+    height: 700px;
+    background-attachment: fixed !important;
+    background-size: cover;
+    padding-bottom: 50px;
+ 
+
+}
+.contacts p 
+{
+    color:  #76c7d4 !important;
+
+}
+.contacts h2{
+    color: #76c7d4 !important;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    border-bottom: 3px rgb(154, 41, 41) solid;
+    display: inline-block;
+    
+}
+.contacts .email
+{
+    padding-top: 50px;
+
+}
+.order
+{
+    background-color: #ECECF4;
+}
+.order h2{
+    color: #76c7d4 !important;
+    border-bottom:  3px rgb(154, 41, 41) solid;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    display: inline-block;
+
+}
+.ServicePolicy .btn
+{
+    background-color:#76c7d4 ;
+    border: #76c7d4;
+}
+.ServicePolicy
+{
+    background-color: #ECECF4;
+}
